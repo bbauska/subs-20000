@@ -1,4 +1,4 @@
-/* ./js/script.js of silus-fireworks.bauska.org for silus-fireworks.bauska.org */
+/* ./js/script.js of subs-20000 for subs-20k.bauska.org */
 let chars, particles, canvas, ctx, w, h, current;
 let duration = 5000;
 let str = ['Silus', 'Gaming', 'World' , '20,000' , 'Subscribers', 'ThankYou'];
